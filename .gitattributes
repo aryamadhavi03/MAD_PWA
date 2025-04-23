@@ -1,2 +1,4 @@
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+*.webm filter=lfs diff=lfs merge=lfs -text
 Recording[[:space:]]2025-04-23[[:space:]]183717.mp4 filter=lfs diff=lfs merge=lfs -text
 Screen_recording_20250423_182700.webm filter=lfs diff=lfs merge=lfs -text
